@@ -11,7 +11,7 @@ class UserSeeder extends Seeder
         [
             'id' => 1,
             'name' => 'Huy',
-            'email' => 'thuan.le2102152@vnuk.edu.vn',
+            'email' => 'thuan.le210219@vnuk.edu.vn',
             'password' => '123qwe123',
         ],
         [

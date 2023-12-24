@@ -1,5 +1,5 @@
 <div>
-    <h1 class = "text-center ">Todo List</h1>
+    <h1 class = "text-center text-sky-500 text-3xl ">Todo List</h1>
     <div class="body bg-gradient-to-r from-pink-400 to-yellow-500">
         <div class="flex flex-col container mx-auto p-4">
             <div class="flex justify-center mb-4">
@@ -23,7 +23,7 @@
                         dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700
                         dark:border-gray-600 mx-3">
 
-                        <span @if ($todo->is_completed) class='text-green-600' @endif>{{ $todo->todo }}</span>
+                        <span @if ($todo->is_completed) class='text-fuchsia-600' @endif>{{ $todo->todo }}</span>
                     </div>
                     <div class="">
                     <div class="flex items-center space-x-2">

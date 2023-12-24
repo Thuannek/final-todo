@@ -10,7 +10,7 @@ class UserSeeder extends Seeder
     public $users = [
         [
             'id' => 1,
-            'name' => 'Huy',
+            'name' => 'Thuan',
             'email' => 'thuan.le210219@vnuk.edu.vn',
             'password' => '123qwe123',
         ],

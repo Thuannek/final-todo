@@ -9,7 +9,7 @@ Technologies used in this project:
 ## Database Structure
 
 <p align="center">
-  <img src="/img6">
+  <img src="/img6.png">
 </p>
 
 ## List features of projects and screenshots
@@ -18,31 +18,31 @@ Technologies used in this project:
 
 ##### Login and Register:
 <p align="center">
-  <img src="/img7">
+  <img src="/img7.png">
   
 </p>
 <p align="center">
-  <img src="/img8">
+  <img src="/img8.png">
   
 </p>
 
 ##### Users can add tasks:
 <p align="center">
-  <img src="/img1">
+  <img src="/img1.png">
 </p>
 
 ##### Edit:
 <p align="center">
-  <img src="/img2">
+  <img src="/img2.png">
 </p>
 <p align="center">
-  <img src="/img3">
+  <img src="/img3.png">
 </p>
 
 
 ##### Delete:
 <p align="center">
-  <img src="/img4">
+  <img src="/img4.png">
 </p>
 
 ## How to run the application
